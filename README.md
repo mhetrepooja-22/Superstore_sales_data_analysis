@@ -9,7 +9,7 @@ The goal of this dashboard is to provide a clear and intuitive overview of busin
 ## 📁 Data Source
 
 This project uses the publicly available **Global Superstore** dataset, which can be downloaded from:
-> 🔗 [Global Superstore Dataset – Kaggle]([https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting](https://www.kaggle.com/datasets/shekpaul/global-superstore))
+> 🔗 [Global Superstore Dataset – Kaggle](https://www.kaggle.com/datasets/shekpaul/global-superstore)
 ---
 ## 📌 Key Features
 
